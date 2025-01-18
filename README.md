@@ -1,4 +1,4 @@
-# Office Shuttle & Carpool Finder 🚍🚗
+# Office Shuttle & Carpool Finder
 
 A HTML-based web application that helps office workers find bus routes, stop information, and carpooling groups. This project is designed for convenience and efficiency, allowing users to easily plan their commute. The application provides a responsive interface and navigation for a seamless user experience.
 
